@@ -1,0 +1,7 @@
+# File Created by centos at Sat Mar 15 11:20:09 2025
+# assisted by CdsLibEditor
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/dfII/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/hdl/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/pic/cds.lib
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/sg/cds.lib
+DEFINE tsmcN65 /home/centos/tsmc65nm/tsmcN65

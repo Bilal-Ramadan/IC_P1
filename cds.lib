@@ -1,0 +1,2 @@
+SOFTINCLUDE /opt/cadence/IC617/share/cdssetup/cds.lib
+DEFINE IC_2nd_term /home/centos/git/IC_2nd_term
